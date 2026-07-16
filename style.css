@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+    background-color: wheat;
+}
+
+img{
+    width:100%;
+}
+
+h2{
+    background-color: bisque;
+}
+
+ol, ul{
+    background-color: beige;
+    padding: 10px;
+    margin: 10px;
+}
+
+.Description p{
+    font-weight: bold;
+}
